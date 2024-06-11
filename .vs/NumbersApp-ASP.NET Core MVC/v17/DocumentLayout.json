@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|c:\\d disk\\it, programming\\some visualstudio projects for practicing mostly\\numbersapp-asp.net core mvc\\numbersapp-asp.net core mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|solutionrelative:numbersapp-asp.net core mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|c:\\d disk\\it, programming\\some visualstudio projects for practicing mostly\\numbersapp-asp.net core mvc\\numbersapp-asp.net core mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|solutionrelative:numbersapp-asp.net core mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|c:\\d disk\\it, programming\\some visualstudio projects for practicing mostly\\numbersapp-asp.net core mvc\\numbersapp-asp.net core mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|solutionrelative:numbersapp-asp.net core mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|c:\\d disk\\it, programming\\some visualstudio projects for practicing mostly\\numbersapp-asp.net core mvc\\numbersapp-asp.net core mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|solutionrelative:numbersapp-asp.net core mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|c:\\d disk\\it, programming\\some visualstudio projects for practicing mostly\\numbersapp-asp.net core mvc\\numbersapp-asp.net core mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|solutionrelative:numbersapp-asp.net core mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|c:\\d disk\\it, programming\\some visualstudio projects for practicing mostly\\numbersapp-asp.net core mvc\\numbersapp-asp.net core mvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|solutionrelative:numbersapp-asp.net core mvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|c:\\d disk\\it, programming\\some visualstudio projects for practicing mostly\\numbersapp-asp.net core mvc\\numbersapp-asp.net core mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|solutionrelative:numbersapp-asp.net core mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|c:\\d disk\\it, programming\\some visualstudio projects for practicing mostly\\numbersapp-asp.net core mvc\\numbersapp-asp.net core mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|solutionrelative:numbersapp-asp.net core mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|c:\\d disk\\it, programming\\some visualstudio projects for practicing mostly\\numbersapp-asp.net core mvc\\numbersapp-asp.net core mvc\\viewmodels\\numbersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|solutionrelative:numbersapp-asp.net core mvc\\viewmodels\\numbersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|c:\\d disk\\it, programming\\some visualstudio projects for practicing mostly\\numbersapp-asp.net core mvc\\numbersapp-asp.net core mvc\\services\\numbersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|solutionrelative:numbersapp-asp.net core mvc\\services\\numbersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|c:\\d disk\\it, programming\\some visualstudio projects for practicing mostly\\numbersapp-asp.net core mvc\\numbersapp-asp.net core mvc\\views\\numbers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|solutionrelative:numbersapp-asp.net core mvc\\views\\numbers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|c:\\d disk\\it, programming\\some visualstudio projects for practicing mostly\\numbersapp-asp.net core mvc\\numbersapp-asp.net core mvc\\views\\numbers\\_numberslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|solutionrelative:numbersapp-asp.net core mvc\\views\\numbers\\_numberslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|c:\\d disk\\it, programming\\some visualstudio projects for practicing mostly\\numbersapp-asp.net core mvc\\numbersapp-asp.net core mvc\\controllers\\numberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|solutionrelative:numbersapp-asp.net core mvc\\controllers\\numberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|c:\\d disk\\it, programming\\some visualstudio projects for practicing mostly\\numbersapp-asp.net core mvc\\numbersapp-asp.net core mvc\\services\\interfaces\\inumbersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1900BA6-A7DF-4421-BED7-2FB0A8491702}|NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC.csproj|solutionrelative:numbersapp-asp.net core mvc\\services\\interfaces\\inumbersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Views\\Numbers\\Index.cshtml",
+              "RelativeDocumentMoniker": "NumbersApp-ASP.NET Core MVC\\Views\\Numbers\\Index.cshtml",
+              "ToolTip": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Views\\Numbers\\Index.cshtml",
+              "RelativeToolTip": "NumbersApp-ASP.NET Core MVC\\Views\\Numbers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T15:06:57.333Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_NumbersList.cshtml",
+              "DocumentMoniker": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Views\\Numbers\\_NumbersList.cshtml",
+              "RelativeDocumentMoniker": "NumbersApp-ASP.NET Core MVC\\Views\\Numbers\\_NumbersList.cshtml",
+              "ToolTip": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Views\\Numbers\\_NumbersList.cshtml",
+              "RelativeToolTip": "NumbersApp-ASP.NET Core MVC\\Views\\Numbers\\_NumbersList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T06:47:36.49Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NumbersController.cs",
+              "DocumentMoniker": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Controllers\\NumbersController.cs",
+              "RelativeDocumentMoniker": "NumbersApp-ASP.NET Core MVC\\Controllers\\NumbersController.cs",
+              "ToolTip": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Controllers\\NumbersController.cs",
+              "RelativeToolTip": "NumbersApp-ASP.NET Core MVC\\Controllers\\NumbersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:39:16.863Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NumbersService.cs",
+              "DocumentMoniker": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Services\\NumbersService.cs",
+              "RelativeDocumentMoniker": "NumbersApp-ASP.NET Core MVC\\Services\\NumbersService.cs",
+              "ToolTip": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Services\\NumbersService.cs",
+              "RelativeToolTip": "NumbersApp-ASP.NET Core MVC\\Services\\NumbersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:07:24.196Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NumbersViewModel.cs",
+              "DocumentMoniker": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\ViewModels\\NumbersViewModel.cs",
+              "RelativeDocumentMoniker": "NumbersApp-ASP.NET Core MVC\\ViewModels\\NumbersViewModel.cs",
+              "ToolTip": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\ViewModels\\NumbersViewModel.cs",
+              "RelativeToolTip": "NumbersApp-ASP.NET Core MVC\\ViewModels\\NumbersViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:04:35.185Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NumbersApp-ASP.NET Core MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NumbersApp-ASP.NET Core MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T18:52:32.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NumbersApp-ASP.NET Core MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NumbersApp-ASP.NET Core MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T18:29:02.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "INumbersService.cs",
+              "DocumentMoniker": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Services\\Interfaces\\INumbersService.cs",
+              "RelativeDocumentMoniker": "NumbersApp-ASP.NET Core MVC\\Services\\Interfaces\\INumbersService.cs",
+              "ToolTip": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Services\\Interfaces\\INumbersService.cs",
+              "RelativeToolTip": "NumbersApp-ASP.NET Core MVC\\Services\\Interfaces\\INumbersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:40:28.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NumbersApp-ASP.NET Core MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NumbersApp-ASP.NET Core MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:01:19.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "NumbersApp-ASP.NET Core MVC\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "NumbersApp-ASP.NET Core MVC\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-10T05:57:38.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "NumbersApp-ASP.NET Core MVC\\appsettings.json",
+              "ToolTip": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\appsettings.json",
+              "RelativeToolTip": "NumbersApp-ASP.NET Core MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T05:45:18.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Program.cs",
+              "RelativeDocumentMoniker": "NumbersApp-ASP.NET Core MVC\\Program.cs",
+              "ToolTip": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Program.cs",
+              "RelativeToolTip": "NumbersApp-ASP.NET Core MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:45:08.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "NumbersApp-ASP.NET Core MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "NumbersApp-ASP.NET Core MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T05:41:04.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NumbersApp-ASP.NET Core MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\D disk\\IT, programming\\Some VisualStudio projects for practicing mostly\\NumbersApp-ASP.NET Core MVC\\NumbersApp-ASP.NET Core MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NumbersApp-ASP.NET Core MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:36:45.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

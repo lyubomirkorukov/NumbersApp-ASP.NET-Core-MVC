@@ -1,0 +1,43 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NumbersApp_ASP.NET_Core_MVC
+build_property.RootNamespace = NumbersApp_ASP.NET_Core_MVC
+build_property.ProjectDir = C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/D disk/IT\, programming/Some VisualStudio projects for practicing mostly/NumbersApp-ASP.NET Core MVC/NumbersApp-ASP.NET Core MVC/Views/Numbers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVtYmVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D disk/IT\, programming/Some VisualStudio projects for practicing mostly/NumbersApp-ASP.NET Core MVC/NumbersApp-ASP.NET Core MVC/Views/Numbers/_NumbersList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVtYmVyc1xfTnVtYmVyc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D disk/IT\, programming/Some VisualStudio projects for practicing mostly/NumbersApp-ASP.NET Core MVC/NumbersApp-ASP.NET Core MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D disk/IT\, programming/Some VisualStudio projects for practicing mostly/NumbersApp-ASP.NET Core MVC/NumbersApp-ASP.NET Core MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D disk/IT\, programming/Some VisualStudio projects for practicing mostly/NumbersApp-ASP.NET Core MVC/NumbersApp-ASP.NET Core MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D disk/IT\, programming/Some VisualStudio projects for practicing mostly/NumbersApp-ASP.NET Core MVC/NumbersApp-ASP.NET Core MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-yvw0ci471o

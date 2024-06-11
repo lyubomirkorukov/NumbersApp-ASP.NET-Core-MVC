@@ -1,0 +1,32 @@
+﻿@using NumbersApp_ASP.NET_Core_MVC.ViewModels
+@model NumbersViewModel
+
+<div>
+    <button class="btn btn-light" id="clearButton">Clear Numbers</button>
+    <button class="btn btn-light" id="addButton">Add Number</button>
+    <button class="btn btn-light" id="sumButton">Sum Numbers</button>
+</div>
+<div class="mt-3 numbers-list">
+    @foreach (var number in Model.Numbers)
+    {
+        <span class="btn btn-light me-2 mt-1">@number</span>
+    }
+</div>
+<div class="mt-4">
+    <div class="row">
+        <div class="col-auto">
+            <span class="fw-bold">Count:</span>
+        </div>
+        <div class="col ps-0">
+            <span>@Model.Numbers.Count</span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-auto">
+            <span class="fw-bold">Sum:</span>
+        </div>
+        <div class="col">
+            <span id="sum">@(Model.Sum.HasValue ? Model.Sum.Value : "Not Summed")</span>
+        </div>
+    </div>
+</div>

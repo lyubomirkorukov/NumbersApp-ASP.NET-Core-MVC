@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NumbersApp-ASP.NET Core MVC.props" />
+</Project>

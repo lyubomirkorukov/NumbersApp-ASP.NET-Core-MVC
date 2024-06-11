@@ -1,0 +1,39 @@
+﻿@using NumbersApp_ASP.NET_Core_MVC.ViewModels
+@{
+    ViewData["Title"] = "Numbers";
+}
+
+@model NumbersViewModel
+
+<div id="main-container">
+    <h1>Header</h1>
+    <h2>Subheader</h2>
+    <div id="numbersContainer">
+        @await Html.PartialAsync("_NumbersList", Model)
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {            
+            $("#main-container").on("click", "#addButton", function () {
+                $.post("/Numbers/AddNumber", function (data) {                    
+                    $("#numbersContainer").html(data);
+                });
+            });
+
+            $("#main-container").on("click", "#clearButton", function () {
+                $.post("/Numbers/ClearNumbers", function (data) {
+                    $("#numbersContainer").html(data);
+                });
+            });
+
+            $("#main-container").on("click", "#sumButton", function () {
+                $.post("/Numbers/SumNumbers", function (data) {
+                    $("#numbersContainer").html(data);
+                });
+            });
+        });
+    </script>    
+}

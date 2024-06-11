@@ -1,0 +1,30 @@
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\bin\Debug\net8.0\appsettings.json
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\bin\Debug\net8.0\NumbersApp-ASP.NET Core MVC.staticwebassets.runtime.json
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\bin\Debug\net8.0\NumbersApp-ASP.NET Core MVC.exe
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\bin\Debug\net8.0\NumbersApp-ASP.NET Core MVC.deps.json
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\bin\Debug\net8.0\NumbersApp-ASP.NET Core MVC.runtimeconfig.json
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\bin\Debug\net8.0\NumbersApp-ASP.NET Core MVC.dll
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\bin\Debug\net8.0\NumbersApp-ASP.NET Core MVC.pdb
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\NumbersApp-ASP.NET Core MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\NumbersApp-ASP.NET Core MVC.AssemblyInfoInputs.cache
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\NumbersApp-ASP.NET Core MVC.AssemblyInfo.cs
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\NumbersApp-ASP.NET Core MVC.csproj.CoreCompileInputs.cache
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\NumbersApp-ASP.NET Core MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\NumbersApp-ASP.NET Core MVC.RazorAssemblyInfo.cache
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\NumbersApp-ASP.NET Core MVC.RazorAssemblyInfo.cs
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\staticwebassets\msbuild.NumbersApp-ASP.NET Core MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.NumbersApp-ASP.NET Core MVC.props
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NumbersApp-ASP.NET Core MVC.props
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NumbersApp-ASP.NET Core MVC.props
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\scopedcss\bundle\NumbersApp-ASP.NET Core MVC.styles.css
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\scopedcss\projectbundle\NumbersApp-ASP.NET Core MVC.bundle.scp.css
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\NumbersApp-ASP.NET Core MVC.dll
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\refint\NumbersApp-ASP.NET Core MVC.dll
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\NumbersApp-ASP.NET Core MVC.pdb
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\NumbersApp-ASP.NET Core MVC.genruntimeconfig.cache
+C:\D disk\IT, programming\Some VisualStudio projects for practicing mostly\NumbersApp-ASP.NET Core MVC\NumbersApp-ASP.NET Core MVC\obj\Debug\net8.0\ref\NumbersApp-ASP.NET Core MVC.dll

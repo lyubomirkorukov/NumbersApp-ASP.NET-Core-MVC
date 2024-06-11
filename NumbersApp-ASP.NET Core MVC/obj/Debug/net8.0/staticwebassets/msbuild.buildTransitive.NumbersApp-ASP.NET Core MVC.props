@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NumbersApp-ASP.NET Core MVC.props" />
+</Project>
